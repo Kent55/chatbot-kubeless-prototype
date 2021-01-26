@@ -1,0 +1,21 @@
+{
+  "name": "chatbot-solution-backend",
+  "version": "1.0.0",
+  "description": "Serverless chatbot prototype",
+  "dependencies": {
+    "serverless-kubeless": "^0.4.0",
+    "winston": "^3.3.3",
+    "winston-simple-wrapper": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "kubeless",
+    "chatbot"
+  ],
+  "author": "The Kubeless Authors, Matt Kent",
+  "license": "Apache-2.0"
+}
