@@ -3,24 +3,6 @@ Filament AI - Chatbot Technical Task (Backend)
 
 **Submitted By**: Matt Kent -
 
-###### Quick Links
-
-- Problem Summary
-  
-  - Description
-
-- Architecture
-  
-  - Introduction
-  
-  - Design Considerations
-  
-  - Technologies
-
-- Assumptions
-
-- Installation & Deployment
-
 ---
 
 ## 1. Problem Summary
